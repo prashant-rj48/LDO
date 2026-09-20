@@ -37,13 +37,13 @@ The Band-Gap Reference generates a relatively temperature-independent reference 
 
 The BGR is divided into three branches:
 
-Branch B1: BJT Q2
-Branch B2: BJT Q3
-Branch B3: BJT Q4 / current-mirrored branch
+-Branch B1: BJT Q2
+-Branch B2: BJT Q3
+-Branch B3: BJT Q4 / current-mirrored branch
 
 The PMOS stages ensure that approximately the same current flows through the branches, while the NMOS stages keep the source voltages close to each other.
 
-A quiescent current of:
+-A quiescent current of:
 Iq = 15 µA
 was selected for the BGR branches.
 
