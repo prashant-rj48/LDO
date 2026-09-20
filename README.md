@@ -48,6 +48,7 @@ Iq = 15 µA
 was selected for the BGR branches.
 
 
+<img width="1057" height="742" alt="image" src="https://github.com/user-attachments/assets/f30b80d2-5a71-4916-b431-b2894046ea17" />
 
 
 
