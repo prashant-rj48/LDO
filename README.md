@@ -18,14 +18,15 @@ Implement a PMOS pass transistor for voltage regulation.
 Design suitable feedback and compensation networks.                                                    
 Analyze the LDO under different temperatures and load conditions.                                              
 Evaluate:                  
-         Transient response                  
-         Line regulation                    
-         Load regulation                             
-         Efficiency                               
-         PSRR                                 
-         Stability                                  
-         Phase margin                                      
-         Gain margin                                   
+        - ⚡ Transient Response
+- 📈 Line Regulation
+- 📉 Load Regulation
+- 🔋 Efficiency
+- 📡 PSRR
+- 🌡️ Temperature Variation
+- 📐 Stability
+- 🔄 Load Transient Response
+                                 
 
 
 ---
