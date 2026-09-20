@@ -7,7 +7,7 @@ The final simulated design achieves a regulated output voltage of 1.502353 V and
 
 ---
 
-##🎯 Objectives
+## 🎯 Objectives
 
 The main objectives of this project are:
 
